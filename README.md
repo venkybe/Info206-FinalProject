@@ -4,8 +4,10 @@
 Google Colab Link (Hosted) - https://colab.research.google.com/drive/1zSvhJJEogyt9u6vETn_UuSw4Einy1LIV?usp=sharing
 
 Github Repository - https://github.com/venkybe/Info206-FinalProject
+<br>
+<br>
 
-
+<h3>Steps for execution:</h3>
 
 To execute the program run the ‘relevance_analysis.ipynb’, which contains all the Machine Learning models and their results.
 
