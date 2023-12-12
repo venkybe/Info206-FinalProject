@@ -7,7 +7,7 @@ Github Repository - https://github.com/venkybe/Info206-FinalProject
 <br>
 <br>
 
-<h3>Steps for execution:</h3>
+<h3><b></b>Steps for execution:</b></h3>
 
 To execute the program run the ‘relevance_analysis.ipynb’, which contains all the Machine Learning models and their results.
 
